@@ -1,0 +1,14 @@
+databaseChangeLog:
+  - logicalFilePath: db/changelog/db.changelog.yaml
+
+  - changeSet:
+      id: 1
+      author: filkoof
+      comment: "Заполнение тестовой базы данных"
+      changes:
+        - sqlFile:
+            encoding: utf8
+            path: db/changelog/sql/create_sk_example_table.sql
+        - sqlFile:
+            encoding: utf8
+            path: db/changelog/sql/insert_sk_example_table.sql
