@@ -1,17 +1,11 @@
-<h1 align="center"> Здравствуйте, SuperKassa!  
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+### ТЗ:
 
-
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="700"/>
-</div>
-
-
-
-### По условию задачи поле add из request инкременирует значение current JSONB поля в бд и возвращает его обновленное значение 
-![image](https://user-images.githubusercontent.com/100158318/209204878-862d13ae-c826-4180-9ef8-4e2e46aa7827.png)
+![image](https://user-images.githubusercontent.com/100158318/211774398-6259207b-bdd1-4e5a-aa7e-f46774c38d7f.png)
 
 ### Рультат:
+
+![image](https://user-images.githubusercontent.com/100158318/209204878-862d13ae-c826-4180-9ef8-4e2e46aa7827.png)
+
 (по умолчанию "current" : 0)
 
 ![image](https://user-images.githubusercontent.com/100158318/209205912-17bfeb17-7aee-409c-b024-12e99495e7b0.png)
