@@ -1,8 +1,16 @@
-### ТЗ:
+Небольшjt Spring приложение для увеличения значения JSONB поля в Postrges посредством POST запроса.
+
+#### В проекте задействовано:
+- Spring
+- Postgres
+- Docker
+- Liquibase
+
+## ТЗ:
 
 ![image](https://user-images.githubusercontent.com/100158318/211774398-6259207b-bdd1-4e5a-aa7e-f46774c38d7f.png)
 
-### Рультат:
+## Рультат:
 
 ![image](https://user-images.githubusercontent.com/100158318/209204878-862d13ae-c826-4180-9ef8-4e2e46aa7827.png)
 
